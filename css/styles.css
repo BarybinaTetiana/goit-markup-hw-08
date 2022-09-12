@@ -1,0 +1,196 @@
+
+
+
+
+
+
+
+/* Header */
+
+
+
+
+
+
+
+
+
+/* .header-list .header-item {
+    margin-right: 50px; 
+}
+
+.header-list .header-item:last-child {
+    margin-right: 0;
+
+} */
+
+
+
+
+/* Hero */
+
+
+
+/* Особенности */
+
+
+
+  
+
+    /* Чим ми займаємося */
+
+
+
+    
+
+
+    /* Команда */
+
+
+
+
+/* Section */
+
+
+
+
+
+
+
+/* .works {
+    margin-top: 16px;
+
+    display: flex;
+    flex-wrap: wrap;
+
+    fill: currentColor;
+
+}
+
+.work-icon {
+    display: flex;
+} */
+
+/* Наши клиенты */
+
+
+
+
+
+/* .clients-icon:hover,
+.clients-icon:focus {
+    fill: var(--accent-color);
+
+}
+
+.clients-link:hover,
+.clients-link:focus {
+    fill: var(--accent-color);
+    border-color: var(--accent-color);
+} */
+
+
+
+
+
+
+
+/* .clients {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 170px;
+    height: 92px;
+    
+    border: 1px solid #AFB1B8;
+    border-radius: 4px;
+    margin-right: 30px;
+
+} */
+
+
+
+
+
+
+/* .our-clients {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+} */
+
+
+
+
+/* Footer */
+
+
+
+
+
+
+/* Buttons */
+
+
+
+/* Портфоліо */
+
+
+
+
+/* МОДАЛЬНОЕ ОКНО */
+
+
+
+/* .backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+
+    background-color: rgba(0, 0, 0, 0.2);
+
+    opacity: 1;
+    transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1);
+} */
+
+/* .backdrop.is-hidden {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.backdrop.is-hidden .modal {
+    transform:  translate(-50%, -50%) scale(0.9);
+}
+
+
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(1);
+
+    min-width: 528px;
+    min-height: 581px;
+    padding: 15px;
+
+    background-color: var(--header-background-color);
+
+    transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+} */
+
+
+    /* position: fixed;
+    width: 528px;
+    height: 581px;
+    left: 536px;
+    top: 221px;
+    background-color: var(--header-background-color);
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 4px; */
+

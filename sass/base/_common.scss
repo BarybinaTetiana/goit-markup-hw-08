@@ -1,0 +1,58 @@
+body {
+    font-family: Roboto, sans-serif;
+    color: var(--title-text-color);
+    letter-spacing: 0.03em;
+     
+}
+
+ul {
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.section {
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    @media screen and (min-width: 768px) {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    
+    @media screen and (min-width: 1200px) {
+        padding-top: 94px;
+        padding-bottom: 94px;
+        width: 100%;    
+    }
+}
+
+.section.work {
+    padding-top: 0;
+}
+
+.section-title {
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+    color: var(--title-text-color); 
+
+    margin-top: 0;
+    margin-bottom: 50px;
+    
+}
+
+.section.team {
+    background-color: var(--primary-bg-color);
+
+}
+
+.img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+    }
+
+    
