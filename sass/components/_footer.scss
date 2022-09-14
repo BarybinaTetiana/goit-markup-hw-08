@@ -103,7 +103,6 @@
     }
 
     @media screen and (min-width: 1200px) {
-        margin-right: 93px;
         margin-top: 0;
     }    
  }
@@ -112,13 +111,14 @@
     @media screen and (min-width: 768px) {
         display: flex;
         text-align: center;
-        justify-content: center;    
+           
     } 
     
     @media screen and (min-width: 1200px) {
         display: flex;
         flex-direction: row;
         align-items: baseline;
+        margin-right: auto;
     }
  }
 
@@ -151,6 +151,10 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-bottom: 20px;
+
+    @media screen and (min-width: 1200px) {
+        margin-right: auto;
+ }
 }
 
 .footer-soc {
